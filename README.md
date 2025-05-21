@@ -35,3 +35,11 @@ git push origin main
 
 git checkout -b Nom_De_La_Branch
 ````
+
+
+# Explication du workflow de review 
+```` 
+pour les bonnes patrique etant que professionnelle on va intégrer la notion de revue de code
+Pour ce la, on va créer une branche, pour faires de modifications, puis les envoyer sur le depot distant, puis en suite créer un pull request pour demander une revue de code. en fin d'augmenter les qualitées de tes codes en que Developpeur et pour qu'il est de recomandation en cas de bien si une fois vous travaillez en équipe
+
+````
