@@ -24,7 +24,7 @@ L'enregistrement du commit est :wq
 git add REAME.md 
 git add .vscode
 
-git commit -m " Titre du commit "
+git commit -m "Un commentaire "
 git push origin main 
 
 ````
